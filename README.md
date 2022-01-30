@@ -19,6 +19,6 @@ I am interested to learn more about
 
 
 
-**Tool used:** Python *(Pandas, Numpy, Matplolib, seaborn)*
+**Tool used:** Python *(Pandas, Numpy, Matplolib, Seaborn)*
 
 Data Source: https://www.kaggle.com/danielgrijalvas/movies
