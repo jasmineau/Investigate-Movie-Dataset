@@ -1,5 +1,7 @@
 # Investigate-Movie-Dataset
 
+Data Source: https://www.kaggle.com/danielgrijalvas/movies
+
 The data comes from the kaggle. It contains information about 7000 movies (1980-2020) collected from IMDb, including company, budget and gross revenue.
 
 
